@@ -24,7 +24,7 @@
 		
 	</div>
 	<div class="col-md-4">
-			<div class="thumbnail">
+			<div class="thumbnail in">
 				<img src="img/produto3.png" alt="">
 				<div class="caption">
 					<h2 class="h4">Yorgut Acai Milkshake</h2>

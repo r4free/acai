@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-10">
         <ul class="nav navbar-nav pull-right">
-          <li><a href="#">VÍDEOS</a></li>
+          <li><a href="#">VÍDEOS</a></li><li><a href="#">VÍDEOS</a></li>
           <li><a href="#">ONDE ENCONTRAR</a></li>
           <li><a href="#">SUSTENTABILIDADE</a></li>
           <li><a href="#">RESPONSABILIDADE SOCIAL</a></li>
