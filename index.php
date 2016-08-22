@@ -26,7 +26,7 @@
           <div class="col-md-8">
             <div class="row">
               <div class="col-md-12">
-                <img src="img/banner.jpg" alt="banner" class="img-responsive">
+                
               </div>
             </div>
             <?php include 'components/produtos.php' ?>
