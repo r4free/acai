@@ -17,7 +17,7 @@
 		<div class="thumbnail">
 			<img src="img/produto2.png" alt="">
 			<div class="caption">
-				<h2 class="h4">Yorgut Acai Milkshake</h2>
+				<h2 class="h4">Batida de Acaí com limao</h2>
 			</div>
 		</div>
 
