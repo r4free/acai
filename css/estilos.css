@@ -1,0 +1,91 @@
+/*
+#FFD600  - amarelo
+#76044F - roxo escuro 
+#A94BA8 - roxo claro
+#FFC700 - laranja
+
+*/
+
+li.active{
+	background-color: #76044F;
+}
+
+.menu-bar, 
+ul.dropdown-menu  li> a,
+ul.dropdown-menu,
+ul.dropdown{
+	
+	background-color:#FFD600; 
+}
+.menu-bar ul.nav>li> a, .page-header ul>li>a{
+	color: #76044F;
+}
+.menu-bar ul.nav>li>a:hover , 
+ul.dropdown-menu  li> a:hover,
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{ 
+	background-color:#76044F; /* bg roxo*/
+	color:#FFD600; /*texto amarelo*/
+}
+.nav li a:focus
+.active-menu{
+	background-color: #FFC700;
+}
+
+#banner{
+	background-image: url('../img/banner.jpg');
+	background-size: cover;
+	min-height: 100%;
+}
+
+.btn-acai{
+	background: #A94BA8;
+	color: #FFD600;
+	font-weight: bolder;
+}
+.btn-acai:hover{
+	background: #76044F;
+	color: #FFD600;
+}
+
+.affix{
+	top: 0;
+	width: 100%;
+
+}
+
+img[src$='logo_tn.png']{
+	margin-left: 30px;
+}
+.row>.col-md-12>p{
+	margin: 15px;
+	padding: 15px;
+	color: #76044F;
+	font-weight: bolder;
+
+}
+
+#footer {
+	padding-top:30px; 
+	background-color: #76044F;
+	color: white;
+}
+#footer a{
+	color: #FFD600;
+	font-weight: bolder;
+}
+#footer a:hover, #footer a:focus{
+
+	text-shadow: 1px 1px black;
+	text-decoration: none;
+}
+.nav,
+ .navbar,
+ .navbar-nav,
+ .navbar-default{
+	border:none;
+	border-radius: 0px;
+}
+
+
+
+
